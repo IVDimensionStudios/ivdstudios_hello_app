@@ -1,24 +1,7 @@
-# README
+# IVth Dimension Studios demo web app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## "ivdstudios saying Hello World!"
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is he first web application created by ivdstudios 
+[*IVth Dimension Studios](http://www.ivdstudios.com/)
+by [Abhimanyu Aryan](https://www.facebook.com/iAbhimanyuAryan)
